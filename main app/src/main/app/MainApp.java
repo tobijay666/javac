@@ -15,7 +15,7 @@ public class MainApp {
      */
     public static void main(String[] args) {
         System.out.println("Hello Diluka!");
-        System.out.println("Hello Anton!");
+        System.out.println("Hello Anton!2");
         // TODO code application logic here
     }
 
